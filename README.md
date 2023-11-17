@@ -1,5 +1,5 @@
 # --practicalenguajes--
-Integrantes #--Samuel Cadavid y Yessetk Rodriguez--
+Integrantes --Samuel Cadavid y Yessetk Rodriguez--
 link del video de sustentacion : https://drive.google.com/drive/folders/18pH3dqgpF_Gc8bNOWqJomQD-9zUmoV-r
 
 
